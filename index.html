@@ -928,14 +928,17 @@
             Enter your email address to register to our newsletter subscription
           </p>
 
-          <form action="" class="newsletter-form">
+          <form action="" class="newsletter-form" id="newsletterForm">
             <input type="email" name="email_address" placeholder="Your email" required class="input-field">
-
             <button type="submit" class="btn has-before">
               <span class="span">Subscribe</span>
-
               <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
             </button>
+          
+            <!-- Success Message -->
+            <p class="success-message" style="display: none; color: green; margin-top: 10px;">
+              Thank you for subscribing! You'll receive the latest updates directly to your inbox.
+            </p>
           </form>
 
           <ul class="social-list">
