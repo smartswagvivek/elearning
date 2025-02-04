@@ -61,3 +61,18 @@ const activeElem = function () {
 }
 
 addEventOnElem(window, "scroll", activeElem);
+
+document.getElementById('newsletterForm').addEventListener('submit', function (event) {
+  event.preventDefault();
+
+
+  const successMessage = document.querySelector('.success-message');
+  successMessage.style.display = 'block'; 
+
+
+  this.reset();
+
+ setTimeout(() => {
+  successMessage.style.display = 'none';
+}, 5000);
+});
