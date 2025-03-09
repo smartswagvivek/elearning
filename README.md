@@ -1,54 +1,50 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduweb)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduweb?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduweb?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/x26bQPxcFX4?style=social)](https://youtu.be/x26bQPxcFX4)
 
-  <br />
-  <br />
 
-  <h2 align="center">eduweb - Education Website</h2>
+---
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+**🌟 EduWeb - Your Premier eLearning Platform 🌟**
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
+Welcome to **EduWeb**, a groundbreaking platform designed to deliver responsive and accessible educational experiences for everyone! 📚✨ Built with cutting-edge HTML, CSS, and JavaScript, EduWeb adapts seamlessly to all devices, ensuring a smooth learning journey.
 
-</div>
+**➥ Check Out the Live Demo!**
 
-<br />
+---
 
-### Demo Screeshots
+**🚀 Demo Screenshots**
 
 ![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+**📋 Prerequisites**
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Before diving into the beautiful world of EduWeb, make sure you have the following ready:
 
-### Run Locally
+- Ensure that [Git](https://git-scm.com/downloads "Download Git") is installed on your operating system.
 
-To run **EduWeb** locally, run this command on your git bash:
+---
 
-Linux and macOS:
+**🏠 Run Locally**
 
-```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
-```
+Ready to explore EduWeb on your machine? 🚀 Just execute the following command in your terminal:
 
-Windows:
+- For Linux and macOS:
+  ```
+  sudo git clone https://github.com/smartswagvivek/elearning.git
+  ```
 
-```bash
-git clone https://github.com/codewithsadee/eduweb.git
-```
+- For Windows:
+  ```
+  git clone https://github.com/smartswagvivek/elearning.git
+  ```
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-### License
 
-This project is **free to use** and does not contains any license.
+**📜 License**
+
+This project is **completely free to use** and open for everyone to explore! Enjoy your learning adventure with EduWeb!
+
+---
+
