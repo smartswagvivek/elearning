@@ -7,7 +7,7 @@
 Welcome to **EduWeb**, a groundbreaking platform designed to deliver responsive and accessible educational experiences for everyone! 📚✨ Built with cutting-edge HTML, CSS, and JavaScript, EduWeb adapts seamlessly to all devices, ensuring a smooth learning journey.
 
 **➥ Check Out the Live Demo!**
-
+https://smartswagvivek.github.io/elearning/
 ---
 
 **🚀 Demo Screenshots**
